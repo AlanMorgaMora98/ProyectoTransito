@@ -55,32 +55,73 @@
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </ApplicationDefinition>
-    <Page Include="IniciarSesion.xaml">
+    <Page Include="Vista\ConsultarInfoConductor.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
-    <Page Include="MainWindow.xaml">
+    <Page Include="Vista\ConsultarInfoVehiculo.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Vista\ModificarConductor.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Vista\ModificarRegistroVehiculo.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Vista\PrincipalAdministrativo.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Vista\RegistrarConductor.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Vista\RegistroVehiculo.xaml">
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Vista\IniciarSesion.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
     </Page>
     <Compile Include="App.xaml.cs">
       <DependentUpon>App.xaml</DependentUpon>
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="IniciarSesion.xaml.cs">
+    <Compile Include="Vista\ConsultarInfoConductor.xaml.cs">
+      <DependentUpon>ConsultarInfoConductor.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Vista\ConsultarInfoVehiculo.xaml.cs">
+      <DependentUpon>ConsultarInfoVehiculo.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Vista\ModificarConductor.xaml.cs">
+      <DependentUpon>ModificarConductor.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Vista\ModificarRegistroVehiculo.xaml.cs">
+      <DependentUpon>ModificarRegistroVehiculo.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Vista\PrincipalAdministrativo.xaml.cs">
+      <DependentUpon>PrincipalAdministrativo.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Vista\RegistrarConductor.xaml.cs">
+      <DependentUpon>RegistrarConductor.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Vista\RegistroVehiculo.xaml.cs">
+      <DependentUpon>RegistroVehiculo.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Vista\IniciarSesion.xaml.cs">
       <DependentUpon>IniciarSesion.xaml</DependentUpon>
     </Compile>
-    <Compile Include="MainWindow.xaml.cs">
-      <DependentUpon>MainWindow.xaml</DependentUpon>
-      <SubType>Code</SubType>
-    </Compile>
-    <Page Include="MenuAgente.xaml">
+    <Page Include="Vista\MenuAgente.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="MenuAgente.xaml.cs">
+    <Compile Include="Vista\MenuAgente.xaml.cs">
       <DependentUpon>MenuAgente.xaml</DependentUpon>
     </Compile>
     <Compile Include="Properties\AssemblyInfo.cs">
@@ -108,15 +149,20 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
-  <ItemGroup />
   <ItemGroup>
-    <Resource Include="Imagenes\FondoBlanco.jpg" />
+    <Resource Include="Vista\Imagenes\FondoBlanco.jpg" />
   </ItemGroup>
   <ItemGroup>
-    <Resource Include="Imagenes\veracruzlogo.png" />
+    <Resource Include="Vista\Imagenes\veracruzlogo.png" />
   </ItemGroup>
   <ItemGroup>
-    <Resource Include="Imagenes\IconoEnviar.png" />
+    <Resource Include="Vista\Imagenes\IconoEnviar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Vista\Imagenes\conductor.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Vista\Imagenes\vehiculo.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

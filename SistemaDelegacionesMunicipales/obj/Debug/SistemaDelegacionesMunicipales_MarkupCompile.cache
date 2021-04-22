@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-D:\6° semestre\Tecnologias para la construccion de software\Proyecto\SistemaDelegacionesMunicipales\obj\Debug\
+D:\Documentos\0.0 ESCUELA\6o semestre\Tecnologias\00. PROYECTO\Git\ProyectoTransito\ProyectoTransito\SistemaDelegacionesMunicipales\obj\Debug\
 SistemaDelegacionesMunicipales
 none
 false
 DEBUG;TRACE
-D:\6° semestre\Tecnologias para la construccion de software\Proyecto\SistemaDelegacionesMunicipales\App.xaml
-3-1743404897
+D:\Documentos\0.0 ESCUELA\6o semestre\Tecnologias\00. PROYECTO\Git\ProyectoTransito\ProyectoTransito\SistemaDelegacionesMunicipales\App.xaml
+91588643029
 
-8731792070
+14241171290
 13-1505183044
-IniciarSesion.xaml;MainWindow.xaml;MenuAgente.xaml;
+Vista\ConsultarInfoConductor.xaml;Vista\ConsultarInfoVehiculo.xaml;Vista\ModificarConductor.xaml;Vista\ModificarRegistroVehiculo.xaml;Vista\PrincipalAdministrativo.xaml;Vista\RegistrarConductor.xaml;Vista\RegistroVehiculo.xaml;Vista\IniciarSesion.xaml;Vista\MenuAgente.xaml;
 
 True
 
