@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -17,11 +17,16 @@ namespace SistemaDelegacionesMunicipales.Vista
     /// <summary>
     /// Lógica de interacción para Menu.xaml
     /// </summary>
-    public partial class MenuAgente : Window
+    public partial class Menu : Window
     {
-        public MenuAgente()
+        public Menu()
         {
             InitializeComponent();
+        }
+
+        private void Button_Click(object sender, RoutedEventArgs e)
+        {
+
         }
     }
 }
