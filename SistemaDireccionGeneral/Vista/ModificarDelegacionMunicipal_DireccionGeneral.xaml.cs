@@ -12,21 +12,16 @@ using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Shapes;
 
-namespace SistemaDelegacionesMunicipales
+namespace SistemaDireccionGeneral.Vista
 {
     /// <summary>
-    /// Lógica de interacción para EliminarUsuario_DireccionGeneral.xaml
+    /// Lógica de interacción para ModificarDelegacionMunicipal_DireccionGeneral.xaml
     /// </summary>
-    public partial class EliminarUsuario_DireccionGeneral : Window
+    public partial class ModificarDelegacionMunicipal_DireccionGeneral : Window
     {
-        public EliminarUsuario_DireccionGeneral()
+        public ModificarDelegacionMunicipal_DireccionGeneral()
         {
             InitializeComponent();
-        }
-
-        private void DataGrid_Scroll(object sender, System.Windows.Controls.Primitives.ScrollEventArgs e)
-        {
-
         }
     }
 }

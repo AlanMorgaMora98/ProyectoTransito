@@ -12,14 +12,14 @@ using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Shapes;
 
-namespace SistemaDelegacionesMunicipales
+namespace SistemaDireccionGeneral.Vista
 {
     /// <summary>
-    /// Lógica de interacción para ModificarUsuario_DireccionGeneral.xaml
+    /// Lógica de interacción para ConsultarDelegacionMunicipal_DireccionGeneral.xaml
     /// </summary>
-    public partial class ModificarUsuario_DireccionGeneral : Window
+    public partial class ConsultarDelegacionMunicipal_DireccionGeneral : Window
     {
-        public ModificarUsuario_DireccionGeneral()
+        public ConsultarDelegacionMunicipal_DireccionGeneral()
         {
             InitializeComponent();
         }
