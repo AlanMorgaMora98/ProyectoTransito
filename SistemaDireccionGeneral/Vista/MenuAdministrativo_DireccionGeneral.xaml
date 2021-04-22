@@ -42,5 +42,15 @@
         </Image>
         <Label Content="Usuario" Grid.Column="1"  HorizontalAlignment="Center" Grid.Row="1" VerticalAlignment="Top" FontWeight="Bold"/>
         <Label Content="Delegación" Grid.Column="3" HorizontalAlignment="Center" Grid.Row="1" VerticalAlignment="Top" FontWeight="Bold"/>
+        <Image Grid.Column="1" HorizontalAlignment="Center" Height="71" Grid.Row="1" Grid.RowSpan="2" VerticalAlignment="Center" Width="82">
+            <Image.Source>
+                <BitmapImage UriSource="D:\GitHub\ProyectoTransito\SistemaDireccionGeneral\Imagenes\Usuario.png"/>
+            </Image.Source>
+        </Image>
+        <Image Grid.Column="3" HorizontalAlignment="Center" Height="71" Grid.Row="1" Grid.RowSpan="2" VerticalAlignment="Center" Width="82">
+            <Image.Source>
+                <BitmapImage UriSource="D:\GitHub\ProyectoTransito\SistemaDireccionGeneral\Imagenes\delegacion.png"/>
+            </Image.Source>
+        </Image>
     </Grid>
 </Window>
