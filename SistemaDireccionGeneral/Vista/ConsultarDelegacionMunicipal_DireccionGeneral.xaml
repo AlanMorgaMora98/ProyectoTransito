@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:SistemaDireccionGeneral.Vista"
         mc:Ignorable="d"
-        Title="Consultar Delegación Municipal" Height="450" Width="800">
+        Title="Consultar Delegación Municipal" Height="450" Width="800" ResizeMode="NoResize">
     <Grid>
         <Grid.Background>
             <ImageBrush ImageSource="D:\GitHub\ProyectoTransito\SistemaDelegacionesMunicipales\Imagenes\FondoBlanco.jpg"/>
