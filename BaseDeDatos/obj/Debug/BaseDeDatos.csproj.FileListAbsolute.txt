@@ -1,0 +1,7 @@
+D:\Documentos\0.0 ESCUELA\6o semestre\Tecnologias\00. PROYECTO\Git\ProyectoTransito\ProyectoTransito\BaseDeDatos\bin\Debug\BaseDeDatos.exe.config
+D:\Documentos\0.0 ESCUELA\6o semestre\Tecnologias\00. PROYECTO\Git\ProyectoTransito\ProyectoTransito\BaseDeDatos\bin\Debug\BaseDeDatos.exe
+D:\Documentos\0.0 ESCUELA\6o semestre\Tecnologias\00. PROYECTO\Git\ProyectoTransito\ProyectoTransito\BaseDeDatos\bin\Debug\BaseDeDatos.pdb
+D:\Documentos\0.0 ESCUELA\6o semestre\Tecnologias\00. PROYECTO\Git\ProyectoTransito\ProyectoTransito\BaseDeDatos\obj\Debug\BaseDeDatos.csprojAssemblyReference.cache
+D:\Documentos\0.0 ESCUELA\6o semestre\Tecnologias\00. PROYECTO\Git\ProyectoTransito\ProyectoTransito\BaseDeDatos\obj\Debug\BaseDeDatos.csproj.CoreCompileInputs.cache
+D:\Documentos\0.0 ESCUELA\6o semestre\Tecnologias\00. PROYECTO\Git\ProyectoTransito\ProyectoTransito\BaseDeDatos\obj\Debug\BaseDeDatos.exe
+D:\Documentos\0.0 ESCUELA\6o semestre\Tecnologias\00. PROYECTO\Git\ProyectoTransito\ProyectoTransito\BaseDeDatos\obj\Debug\BaseDeDatos.pdb
