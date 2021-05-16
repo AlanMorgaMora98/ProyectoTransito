@@ -44,6 +44,10 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="BD\ConexionBD.cs" />
+    <Compile Include="POCOs\Conductor.cs" />
+    <Compile Include="POCOs\DelegacionesMunicipales.cs" />
+    <Compile Include="POCOs\Dictamen.cs" />
+    <Compile Include="POCOs\Reporte.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
