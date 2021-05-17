@@ -11,7 +11,7 @@ namespace BD.ConexionBD
     {
         private static string SERVER = "localhost";
         private static string PORT = "1433";
-        private static string DATABASE = "alumnos";
+        private static string DATABASE = "BDTransito";
         private static string USER = "ProyectoTransito";
         private static string PASSWORD = "123456x.";
 

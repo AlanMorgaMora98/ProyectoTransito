@@ -44,14 +44,17 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="BD\ConexionBD.cs" />
+    <Compile Include="DAOs\ConductorDAO.cs" />
+    <Compile Include="DAOs\DelegacionesMunicipales.cs" />
+    <Compile Include="DAOs\Dictamen.cs" />
+    <Compile Include="DAOs\Reporte.cs" />
+    <Compile Include="DAOs\Usuario.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
-  <ItemGroup>
-    <Folder Include="DAOs\" />
-  </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
