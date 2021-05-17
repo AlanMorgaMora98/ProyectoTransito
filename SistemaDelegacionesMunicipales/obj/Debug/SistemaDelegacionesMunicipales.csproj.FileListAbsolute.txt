@@ -17,3 +17,34 @@ D:\6° semestre\Tecnologias para la construccion de software\Proyecto\SistemaDel
 D:\6° semestre\Tecnologias para la construccion de software\Proyecto\SistemaDelegacionesMunicipales\obj\Debug\SistemaDelegacionesMunicipales.csproj.CoreCompileInputs.cache
 D:\6° semestre\Tecnologias para la construccion de software\Proyecto\SistemaDelegacionesMunicipales\obj\Debug\SistemaDelegacionesMunicipales.exe
 D:\6° semestre\Tecnologias para la construccion de software\Proyecto\SistemaDelegacionesMunicipales\obj\Debug\SistemaDelegacionesMunicipales.pdb
+D:\Documentos\0.0 ESCUELA\6o semestre\Tecnologias\00. PROYECTO\Git\ProyectoTransito\ProyectoTransito\SistemaDelegacionesMunicipales\obj\Debug\SistemaDelegacionesMunicipales.csprojAssemblyReference.cache
+D:\Documentos\0.0 ESCUELA\6o semestre\Tecnologias\00. PROYECTO\Git\ProyectoTransito\ProyectoTransito\SistemaDelegacionesMunicipales\obj\Debug\Vista\ConsultarInfoConductor.g.cs
+D:\Documentos\0.0 ESCUELA\6o semestre\Tecnologias\00. PROYECTO\Git\ProyectoTransito\ProyectoTransito\SistemaDelegacionesMunicipales\obj\Debug\Vista\ConsultarInfoVehiculo.g.cs
+D:\Documentos\0.0 ESCUELA\6o semestre\Tecnologias\00. PROYECTO\Git\ProyectoTransito\ProyectoTransito\SistemaDelegacionesMunicipales\obj\Debug\Vista\ModificarConductor.g.cs
+D:\Documentos\0.0 ESCUELA\6o semestre\Tecnologias\00. PROYECTO\Git\ProyectoTransito\ProyectoTransito\SistemaDelegacionesMunicipales\obj\Debug\Vista\ModificarRegistroVehiculo.g.cs
+D:\Documentos\0.0 ESCUELA\6o semestre\Tecnologias\00. PROYECTO\Git\ProyectoTransito\ProyectoTransito\SistemaDelegacionesMunicipales\obj\Debug\Vista\PrincipalAdministrativo.g.cs
+D:\Documentos\0.0 ESCUELA\6o semestre\Tecnologias\00. PROYECTO\Git\ProyectoTransito\ProyectoTransito\SistemaDelegacionesMunicipales\obj\Debug\Vista\RegistrarConductor.g.cs
+D:\Documentos\0.0 ESCUELA\6o semestre\Tecnologias\00. PROYECTO\Git\ProyectoTransito\ProyectoTransito\SistemaDelegacionesMunicipales\obj\Debug\Vista\RegistroVehiculo.g.cs
+D:\Documentos\0.0 ESCUELA\6o semestre\Tecnologias\00. PROYECTO\Git\ProyectoTransito\ProyectoTransito\SistemaDelegacionesMunicipales\obj\Debug\Vista\IniciarSesion.g.cs
+D:\Documentos\0.0 ESCUELA\6o semestre\Tecnologias\00. PROYECTO\Git\ProyectoTransito\ProyectoTransito\SistemaDelegacionesMunicipales\obj\Debug\Vista\MenuAgente.g.cs
+D:\Documentos\0.0 ESCUELA\6o semestre\Tecnologias\00. PROYECTO\Git\ProyectoTransito\ProyectoTransito\SistemaDelegacionesMunicipales\obj\Debug\App.g.cs
+D:\Documentos\0.0 ESCUELA\6o semestre\Tecnologias\00. PROYECTO\Git\ProyectoTransito\ProyectoTransito\SistemaDelegacionesMunicipales\obj\Debug\SistemaDelegacionesMunicipales_MarkupCompile.cache
+D:\Documentos\0.0 ESCUELA\6o semestre\Tecnologias\00. PROYECTO\Git\ProyectoTransito\ProyectoTransito\SistemaDelegacionesMunicipales\obj\Debug\SistemaDelegacionesMunicipales_MarkupCompile.lref
+D:\Documentos\0.0 ESCUELA\6o semestre\Tecnologias\00. PROYECTO\Git\ProyectoTransito\ProyectoTransito\SistemaDelegacionesMunicipales\obj\Debug\SistemaDelegacionesMunicipales.exe
+D:\Documentos\0.0 ESCUELA\6o semestre\Tecnologias\00. PROYECTO\Git\ProyectoTransito\ProyectoTransito\SistemaDelegacionesMunicipales\obj\Debug\SistemaDelegacionesMunicipales.pdb
+D:\Documentos\0.0 ESCUELA\6o semestre\Tecnologias\00. PROYECTO\Git\ProyectoTransito\ProyectoTransito\SistemaDelegacionesMunicipales\bin\Debug\SistemaDelegacionesMunicipales.exe.config
+D:\Documentos\0.0 ESCUELA\6o semestre\Tecnologias\00. PROYECTO\Git\ProyectoTransito\ProyectoTransito\SistemaDelegacionesMunicipales\bin\Debug\SistemaDelegacionesMunicipales.exe
+D:\Documentos\0.0 ESCUELA\6o semestre\Tecnologias\00. PROYECTO\Git\ProyectoTransito\ProyectoTransito\SistemaDelegacionesMunicipales\bin\Debug\SistemaDelegacionesMunicipales.pdb
+D:\Documentos\0.0 ESCUELA\6o semestre\Tecnologias\00. PROYECTO\Git\ProyectoTransito\ProyectoTransito\SistemaDelegacionesMunicipales\obj\Debug\Vista\ConsultarInfoConductor.baml
+D:\Documentos\0.0 ESCUELA\6o semestre\Tecnologias\00. PROYECTO\Git\ProyectoTransito\ProyectoTransito\SistemaDelegacionesMunicipales\obj\Debug\Vista\ConsultarInfoVehiculo.baml
+D:\Documentos\0.0 ESCUELA\6o semestre\Tecnologias\00. PROYECTO\Git\ProyectoTransito\ProyectoTransito\SistemaDelegacionesMunicipales\obj\Debug\Vista\ModificarConductor.baml
+D:\Documentos\0.0 ESCUELA\6o semestre\Tecnologias\00. PROYECTO\Git\ProyectoTransito\ProyectoTransito\SistemaDelegacionesMunicipales\obj\Debug\Vista\ModificarRegistroVehiculo.baml
+D:\Documentos\0.0 ESCUELA\6o semestre\Tecnologias\00. PROYECTO\Git\ProyectoTransito\ProyectoTransito\SistemaDelegacionesMunicipales\obj\Debug\Vista\PrincipalAdministrativo.baml
+D:\Documentos\0.0 ESCUELA\6o semestre\Tecnologias\00. PROYECTO\Git\ProyectoTransito\ProyectoTransito\SistemaDelegacionesMunicipales\obj\Debug\Vista\RegistrarConductor.baml
+D:\Documentos\0.0 ESCUELA\6o semestre\Tecnologias\00. PROYECTO\Git\ProyectoTransito\ProyectoTransito\SistemaDelegacionesMunicipales\obj\Debug\Vista\RegistroVehiculo.baml
+D:\Documentos\0.0 ESCUELA\6o semestre\Tecnologias\00. PROYECTO\Git\ProyectoTransito\ProyectoTransito\SistemaDelegacionesMunicipales\obj\Debug\Vista\IniciarSesion.baml
+D:\Documentos\0.0 ESCUELA\6o semestre\Tecnologias\00. PROYECTO\Git\ProyectoTransito\ProyectoTransito\SistemaDelegacionesMunicipales\obj\Debug\Vista\MenuAgente.baml
+D:\Documentos\0.0 ESCUELA\6o semestre\Tecnologias\00. PROYECTO\Git\ProyectoTransito\ProyectoTransito\SistemaDelegacionesMunicipales\obj\Debug\SistemaDelegacionesMunicipales.g.resources
+D:\Documentos\0.0 ESCUELA\6o semestre\Tecnologias\00. PROYECTO\Git\ProyectoTransito\ProyectoTransito\SistemaDelegacionesMunicipales\obj\Debug\SistemaDelegacionesMunicipales.Properties.Resources.resources
+D:\Documentos\0.0 ESCUELA\6o semestre\Tecnologias\00. PROYECTO\Git\ProyectoTransito\ProyectoTransito\SistemaDelegacionesMunicipales\obj\Debug\SistemaDelegacionesMunicipales.csproj.GenerateResource.cache
+D:\Documentos\0.0 ESCUELA\6o semestre\Tecnologias\00. PROYECTO\Git\ProyectoTransito\ProyectoTransito\SistemaDelegacionesMunicipales\obj\Debug\SistemaDelegacionesMunicipales.csproj.CoreCompileInputs.cache

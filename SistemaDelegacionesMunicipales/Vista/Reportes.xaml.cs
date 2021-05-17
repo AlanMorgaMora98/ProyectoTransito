@@ -12,14 +12,14 @@ using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Shapes;
 
-namespace SistemaDelegacionesMunicipales
+namespace SistemaDelegacionesMunicipales.Vista
 {
     /// <summary>
-    /// Lógica de interacción para Menu.xaml
+    /// Lógica de interacción para Reportes.xaml
     /// </summary>
-    public partial class Menu : Window
+    public partial class Reportes : Window
     {
-        public Menu()
+        public Reportes()
         {
             InitializeComponent();
         }
